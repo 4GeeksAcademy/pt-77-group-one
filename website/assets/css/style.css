@@ -1,3 +1,16 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.line-1 {
+    display: flex;
+    font-size: 30px;
+    }
+.l2 {
+    color: gray;
+}
+img {
+    width: 200;
+    height: 200;
+    border-radius: 50%;
+    object-fit: cover;
 }
