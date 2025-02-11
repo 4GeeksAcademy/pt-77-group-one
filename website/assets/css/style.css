@@ -1,3 +1,23 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
+.services-container {
+    max-width: 75%;
+    display: flex;
+    justify-content: flex-start;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.services img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.services-section { 
+    margin-left: 15px;
+}
+
