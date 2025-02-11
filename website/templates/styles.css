@@ -1,0 +1,8 @@
+div.container-fluid{
+    display: flexbox;
+    padding: 0px;
+    background: purple;
+}
+.jumbotron{
+    background-image: url(./img/bg.jpg);
+}
