@@ -14,3 +14,31 @@ img {
     border-radius: 50%;
     object-fit: cover;
 }
+div.container-fluid{
+    display: flexbox;
+    padding: 0px;
+    color: #BDBDBD;
+}
+.jumbotron{
+    background-image: url("../img/bg.jpg");
+}
+a.class{
+    color: #BDBDBD;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 150px;
+    padding-top: 250px;
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 85px;
+}
+div.color-box{
+    width: 200px;
+    height: 200px;
+    background: white;
+    border: 2px solid;
+}
